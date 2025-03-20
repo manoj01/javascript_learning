@@ -1,0 +1,22 @@
+.container{
+    background-color: azure;
+
+}
+img{
+    width: 100px;
+    flex: auto;
+    border-radius: 50%;
+    margin-right: 100px;
+    float: left;
+}
+p1{
+    font: bold;
+    font-style: italic;
+    color: brown;
+    flex: auto;
+}
+
+P{
+    float: right;
+    align-items: center;
+}
